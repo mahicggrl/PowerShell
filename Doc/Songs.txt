@@ -1,0 +1,568 @@
+Malayalam_Captain-Captain Theme.txt
+Malayalam_Akasha Mittayi-Uyaram.txt
+Malayalam_Solo-Sajan More.txt
+Malayalam_Aami-Neer Maathalam.txt
+Malayalam_Aana Alaralodalaral-Neeyum Njanum.txt
+Malayalam_Akasha Mittayi-Aakashapaala.txt
+Malayalam_Angane Njanum Premichu-Paattonnu Paadalo.txt
+Malayalam_Bhaagamathie-Mandhaara.txt
+Malayalam_Bonsai-Chellam Cholli.txt
+Malayalam_Captain-Paalthira Paadum.txt
+Malayalam_Carbon-Thanna Thane.txt
+Malayalam_Charminar-Neela Shalabhame.txt
+Malayalam_Chembarathipoo-Kannil Kannonnu.txt
+Malayalam_Daivame Kaithozham K Kumarakanam-Daivame Kaithozham.txt
+Malayalam_Diwanjimoola Grand Prix-Innale Innale.txt
+Malayalam_Eeda-Marivil.txt
+Malayalam_Hey Jude-Yela La La.txt
+Malayalam_Ira-Oru Mozhi Parayam.txt
+Malayalam_Kaattu-Ekayaai Nee.txt
+Malayalam_Kadha Paranja Kadha-Melle Melle.txt
+Malayalam_Kallai FM-Marujanmam.txt
+Malayalam_Kaly-Chunk Chakkare.txt
+Malayalam_Kalyanam-Pande Nee Ennil Unde.txt
+Malayalam_Kinar-Ayya Sami.txt
+Malayalam_Kuttanpillayude Sivarathri-Chakka Paattu.txt
+Malayalam_Masterpiece-Madhu Mozhi.txt
+Malayalam_Mayaanadhi-Uyirin Nadhiye.txt
+Malayalam_My Story-Pathungi.txt
+Malayalam_Onnumariyathe-Neram Mangaraay.txt
+Malayalam_Oru Adaar Love-Manikya Malaraya Poovi.txt
+Malayalam_Overtake-Puzha Orungi.txt
+Malayalam_Parava-Pyaar Pyaar.txt
+Malayalam_Pokkiri Simon-Adada Adingada.txt
+Malayalam_Punyalan Private Limited-Naalu Kombulla Kunjaana.txt
+Malayalam_Queen-Saare.txt
+Malayalam_Rosapoo-Mutta Paatu.txt
+Malayalam_Shikkari Shambhu-Mazha.txt
+Malayalam_Solo-Roshomon.txt
+Malayalam_Street Lights-Kaalamellam.txt
+Malayalam_The Sound Story-Beetein Na Yeh Pal.txt
+Malayalam_Udaharanam Sujatha-Kasavu Njoriyumoru Pulari.txt
+Malayalam_Udalaazham-Medasooryante (Female).txt
+Malayalam_Villain-Kandittum Kandittum (Male).txt
+Malayalam_Vimaanam-Anthikevarikente.txt
+Malayalam_Aadhi-Gypsy Women.txt
+Malayalam_Aadu 2-Aadeda Aattam Nee.txt
+Malayalam_Aami-Pranayamayi Radha.txt
+Malayalam_Aana Alaralodalaral-Shaanthi.txt
+Malayalam_Akasha Mittayi-Kiya Kiya.txt
+Malayalam_Angane Njanum Premichu-Panjara Kanavulla.txt
+Malayalam_Bonsai-Anthikkoru.txt
+Malayalam_Captain-Peythalinja Nimisham.txt
+Malayalam_Carbon-Doore Doore.txt
+Malayalam_Charminar-Irul Arangil.txt
+Malayalam_Chembarathipoo-Chilluveyil Chayumee.txt
+Malayalam_Daivame Kaithozham K Kumarakanam-Kalyanam Swapnathil.txt
+Malayalam_Diwanjimoola Grand Prix-Kaate Poora Kaatte.txt
+Malayalam_Eeda-Mizhi Niranju.txt
+Malayalam_Hey Jude-Nisa Shalabhame.txt
+Malayalam_Ira-Etho Paattin Eenam.txt
+Malayalam_Kaattu-Pottada Pottada.txt
+Malayalam_Kadha Paranja Kadha-Arikil En Arikil.txt
+Malayalam_Kallai FM-Athmabhava.txt
+Malayalam_Kaly-Kinnam Katta Kallan.txt
+Malayalam_Kalyanam-Mazhamukile.txt
+Malayalam_Kinar-Mazhavil Kaavile.txt
+Malayalam_Masterpiece-Mylanchi.txt
+Malayalam_Mayaanadhi-Mizhiyil.txt
+Malayalam_My Story-Kadhakal.txt
+Malayalam_Parava-Ormakal.txt
+Malayalam_Pokkiri Simon-Mambhazha Kalam.txt
+Malayalam_Punyalan Private Limited-Poorangade Pooram.txt
+Malayalam_Queen-Aarandda.txt
+Malayalam_Rosapoo-Kochiloru Kappaladuthe.txt
+Malayalam_Shikkari Shambhu-Kaana Chembaka Poo.txt
+Malayalam_Solo-Sajan More Ghar Aaye.txt
+Malayalam_The Sound Story-Pooram Song.txt
+Malayalam_Udaharanam Sujatha-Unarukayaano.txt
+Malayalam_Udalaazham-Medasooryante (Male).txt
+Malayalam_Villain-Pathiye Nee.txt
+Malayalam_Vimaanam-Vaanamakalunnuvo.txt
+Malayalam_Aadhi-Piriyum Naam.txt
+Malayalam_Aadu 2-Oru Theepole.txt
+Malayalam_Aami-Chand Hoga.txt
+Malayalam_Aana Alaralodalaral-Shekara.txt
+Malayalam_Akasha Mittayi-Pularikal.txt
+Malayalam_Angane Njanum Premichu-Snehithano.txt
+Malayalam_Bonsai-Kaadum Kattarum (Male).txt
+Malayalam_Captain-Paattu Petty.txt
+Malayalam_Carbon-Kaattin Saarangi.txt
+Malayalam_Charminar-Poove Poove.txt
+Malayalam_Chembarathipoo-Akaleyai Evideyo.txt
+Malayalam_Diwanjimoola Grand Prix-Trissur Song.txt
+Malayalam_Eeda-Udalin.txt
+Malayalam_Hey Jude-Hey Dont Worry Jude.txt
+Malayalam_Kaattu-Kanaa Kaangiren.txt
+Malayalam_Kadha Paranja Kadha-Pazham Pattu.txt
+Malayalam_Kallai FM-Ee Swapnangal.txt
+Malayalam_Kaly-Poo Poothuvo.txt
+Malayalam_Kalyanam-Kunjilam Poove.txt
+Malayalam_Kinar-Alakkuvanaakumoo (Male).txt
+Malayalam_Masterpiece-Wake Up.txt
+Malayalam_Mayaanadhi-Kaatil.txt
+Malayalam_Parava-Pakalin Vaathil.txt
+Malayalam_Pokkiri Simon-Pullimane.txt
+Malayalam_Queen-Vennilave.txt
+Malayalam_Rosapoo-Padinjattodiyal Kadalu.txt
+Malayalam_Shikkari Shambhu-Tharam.txt
+Malayalam_Solo-Sita Kalyanam.txt
+Malayalam_Udaharanam Sujatha-Kaatil Ila.txt
+Malayalam_Udalaazham-Puzhayil.txt
+Malayalam_Villain-Angakale.txt
+Malayalam_Vimaanam-Vaaniluyare.txt
+Malayalam_Aadhi-Gypsy Women (Instrumental).txt
+Malayalam_Aami-Aadhi Raath.txt
+Malayalam_Aana Alaralodalaral-Sthothram.txt
+Malayalam_Angane Njanum Premichu-Thodu Thodu.txt
+Malayalam_Bonsai-Kaadum Kattarum (Female).txt
+Malayalam_Captain-Paattu Petty (Film Version).txt
+Malayalam_Charminar-Adra Beat (OMKV Tribute).txt
+Malayalam_Chembarathipoo-Aaro.txt
+Malayalam_Hey Jude-Meenukal Vannupoy.txt
+Malayalam_Kaattu-Venal Kaatil.txt
+Malayalam_Kadha Paranja Kadha-Kannolam Nee.txt
+Malayalam_Kalyanam-Kalyanam.txt
+Malayalam_Kinar-Alakkuvanaakumoo (Female).txt
+Malayalam_Masterpiece-Master of The Masses (Theme Song).txt
+Malayalam_Mayaanadhi-Kiliye.txt
+Malayalam_Parava-Parava Theme.txt
+Malayalam_Queen-Podipaarana.txt
+Malayalam_Rosapoo-Munniloru Swargam.txt
+Malayalam_Shikkari Shambhu-Thararaathara Moolana Kaattinu.txt
+Malayalam_Solo-Aal Ayaal.txt
+Malayalam_Udaharanam Sujatha-Pennale.txt
+Malayalam_Udalaazham-Poomathe Ponnamma.txt
+Malayalam_Villain-Villain Theme.txt
+Malayalam_Vimaanam-Meghakanavinu.txt
+Malayalam_Aadhi-Sooryane (Instrumental).txt
+Malayalam_Aami-Umar Salon Sein.txt
+Malayalam_Aana Alaralodalaral-Sunnath Kalyanam.txt
+Malayalam_Akasha Mittayi-Aakasha (Pathos).txt
+Malayalam_Angane Njanum Premichu-Panjara (Flute Cover).txt
+Malayalam_Chembarathipoo-Paathidooram.txt
+Malayalam_Hey Jude-Rock Rock.txt
+Malayalam_Kalyanam-Dhrithangapulakithan.txt
+Malayalam_Masterpiece-Dinam Dinam.txt
+Malayalam_Parava-Imran Intro.txt
+Malayalam_Queen-Ponnumkasavinte.txt
+Malayalam_Rosapoo-Rosapoo Malatharam.txt
+Malayalam_Shikkari Shambhu-Puliyunde Nariyunde.txt
+Malayalam_Solo-Aal Ayaal (Reprise).txt
+Malayalam_Udaharanam Sujatha-Kanakku.txt
+Malayalam_Villain-Kandittum Kandittum (Female).txt
+Malayalam_Vimaanam-Anthimaanam.txt
+Malayalam_Aadhi-Piriyum Naam (Instrumental).txt
+Malayalam_Chembarathipoo-Akaluvaan.txt
+Malayalam_Masterpiece-Kaalam Poyaalum (Title Song).txt
+Malayalam_Parava-Parava Title Song (Vadakele Pathune).txt
+Malayalam_Queen-Lal Anthem.txt
+Malayalam_Solo-Aigiri Nandini (Eye For An Eye).txt
+Malayalam_Udaharanam Sujatha-Ethu Mazhayilum.txt
+Malayalam_Solo-Shiv Taandav.txt
+Malayalam_Udaharanam Sujatha-Nee Njangade.txt
+Malayalam_Solo-Singa Kutty.txt
+Malayalam_Solo-Kandu Nee Enne.txt
+Malayalam_Solo-Oru Vanchi Paattu.txt
+Malayalam_Solo-Thaalolam.txt
+Malayalam_Solo-Seperation.txt
+Malayalam_Solo-Shiva Omkara.txt
+Malayalam_Solo-Karaiyaadhe.txt
+Malayalam_Solo-You.txt
+Malayalam_Solo-The Cyclist Theme.txt
+Tamil_Abhiyum Anuvum-Saregamapadhanisa.txt
+Tamil_Achamillai Achamillai-Mazhai Kondu Vantha.txt
+Tamil_Aramm-Melam Kottudaa.txt
+Tamil_Aruvi-Party Song (Uchcham Thodum Anbin Kodi).txt
+Tamil_Bhaagamathie-Mandhaara.txt
+Tamil_Ennai Nokki Paayum Thotta-Maruvaarthai.txt
+Tamil_Ghajinikanth-Bar Song.txt
+Tamil_Gulaebaghavali-Guleba Sokama Sokama.txt
+Tamil_Ippadai Vellum-Ippadai Vellum Nichayamel.txt
+Tamil_Iravukku Aayiram Kangal-Uyir Uruvaatha.txt
+Tamil_Irumbu Thirai-Yaar Ivan.txt
+Tamil_Iruttu Araiyil Murattu Kuthu-Party Song.txt
+Tamil_Julie 2-Oh Vaa Vaa Kadhalil.txt
+Tamil_Junga-Koottippo Koodave.txt
+Tamil_Kaali-Arumbey.txt
+Tamil_Kalakalappu 2-Oru Kuchi Oru Kulfi.txt
+Tamil_Karu-Aalaliloo.txt
+Tamil_Kee-Raaja Paatu.txt
+Tamil_Keni-Ayya Sami.txt
+Tamil_Koottali-Chithiram Pesuthadi.txt
+Tamil_Madura Veeran-Enna Nadakkudhu Naattula.txt
+Tamil_Magalir Mattum-Adi Vaadi Thimiraa.txt
+Tamil_Mangai Maanvizhi Ambugal-Nee Tholai Thoorathil.txt
+Tamil_Mannar Vagaiyara-Mannar Mannar.txt
+Tamil_Mohini-Hey.txt
+Tamil_Mr Villain-Kannukul Kannukul.txt
+Tamil_Nagesh Thiraiyarangam-Kangal Rendum.txt
+Tamil_Natpuna Ennanu Theriyuma-Cow Song.txt
+Tamil_Nimir-Nenjil Mamazhai.txt
+Tamil_Oru Kuppai Kathai-Vilagaadhe Enadhuyirae.txt
+Tamil_Oru Nalla Naal Paathu Solren-Yae Elumba Enni Enni.txt
+Tamil_Padai Veeran-Kombathi Komban.txt
+Tamil_Padmaavat-Unadhallavaa.txt
+Tamil_Pakka-Ola Veedu Nallaala.txt
+Tamil_Pathungi Paayanum Thala-Nee Maamana Machana.txt
+Tamil_Pyaar Prema Kaadhal-High On Love.txt
+Tamil_R K Nagar-Papara Mittai.txt
+Tamil_Savarakathi-Annaanthu Paar.txt
+Tamil_Seyal-Vittu Thallu.txt
+Tamil_Sketch-Kannave Kannave.txt
+Tamil_Tea Kadai Bench-Tea Kadai Bench.txt
+Tamil_Thaanaa Serndha Koottam-Naana Thaana Veena Ponaa.txt
+Tamil_Theeran Adhigaram Ondru-Sevatha Pulla Manasukulla.txt
+Tamil_Thiruttu Payale 2-Nee Paarkum.txt
+Tamil_Tik Tik Tik-Tik Tik Tik (Title).txt.txt
+Tamil_Abhiyum Anuvum-Engada Pona (Duet).txt
+Tamil_Achamillai Achamillai-Achamillai Achamillai.txt
+Tamil_Aramm-Thoranam Aayiram.txt
+Tamil_Aruvi-Baby Track (Kukkotti Kunaatti).txt
+Tamil_Bhaagamathie-Bhaagamathie (Theme).txt
+Tamil_Ennai Nokki Paayum Thotta-Naan Pizhaippeno.txt
+Tamil_Gulaebaghavali-Seramal Ponal Vaazhamal Poven.txt
+Tamil_Ippadai Vellum-Godfather Kanmaniye.txt
+Tamil_Iravukku Aayiram Kangal-Yea Pa Yeppappa.txt
+Tamil_Irumbu Thirai- Azhagae.txt
+Tamil_Julie 2-Ila Maalai Pozhudhaaga.txt
+Tamil_Kaali-Amma Alugiren.txt
+Tamil_Kalakalappu 2-Karakudi Ilavarasi En Nenja.txt
+Tamil_Karu-Konjali.txt
+Tamil_Kee-Pattikichu Pathiya.txt
+Tamil_Keni-Kalayum Meghame.txt
+Tamil_Koottali-Jil Jil Silku Singari.txt
+Tamil_Madura Veeran-Kaappaathu Karuppa.txt
+Tamil_Magalir Mattum-Ghandhari Yaaro.txt
+Tamil_Mangai Maanvizhi Ambugal-Manjal Mayile.txt
+Tamil_Mannar Vagaiyara-Oru Thattane Pole.txt
+Tamil_Mohini-Bomb Figure Baby.txt
+Tamil_Mr Villain-Kandikka Kandikka.txt
+Tamil_Nagesh Thiraiyarangam-Vaadi Vaadi.txt
+Tamil_Natpuna Ennanu Theriyuma-Thookuda Collara.txt
+Tamil_Nimir-Poovukku.txt
+Tamil_Oru Kuppai Kathai-Vaa Machi Vaada Machi.txt
+Tamil_Oru Nalla Naal Paathu Solren-Hey Reengara En Izhuththayo.txt
+Tamil_Padai Veeran-Mattikkiten.txt
+Tamil_Padmaavat-Goomar.txt
+Tamil_Pakka-Enga Pona Nee Enga.txt
+Tamil_Pathungi Paayanum Thala-Angry Bird.txt
+Tamil_R K Nagar-Adiyea Vasamaakkavai.txt
+Tamil_Savarakathi-Thangakathi.txt
+Tamil_Seyal-Maatikiten.txt
+Tamil_Sketch-Atchi Putchi Kathukchi.txt
+Tamil_Tea Kadai Bench-Ennadi Ennadi.txt
+Tamil_Thaanaa Serndha Koottam-Sodakku.txt
+Tamil_Theeran Adhigaram Ondru-Oru Veettil Neeyum Naanum.txt
+Tamil_Thiruttu Payale 2-Thiruttuppayale 2 (Theme).txt
+Tamil_Tik Tik Tik-Kurumba (Fathers Love).txt
+Tamil_Abhiyum Anuvum-Engadi Pone (M).txt
+Tamil_Achamillai Achamillai-Pudhu Mayakkam.txt
+Tamil_Aramm-Pudhu Varalaare.txt
+Tamil_Aruvi-Teen Track (Asaindhadum Mayil).txt
+Tamil_Ennai Nokki Paayum Thotta-Maruvaarthai (Restrung Version).txt
+Tamil_Gulaebaghavali-Heartukulla Pachakuthiye.txt
+Tamil_Ippadai Vellum-Thodra Paakkalaam.txt
+Tamil_Iravukku Aayiram Kangal-Yean Penne Neeyum.txt
+Tamil_Irumbu Thirai-Athiradi.txt
+Tamil_Julie 2-Devaloga Sundari Naan.txt
+Tamil_Kaali-Yugam Noorai.txt
+Tamil_Kalakalappu 2-Pudichiruka illa Pudikalaya.txt
+Tamil_Karu-Karuve.txt
+Tamil_Kee-Kaadhoram.txt
+Tamil_Keni-Vedithidum Bhoomi.txt
+Tamil_Koottali-Katti Izhukkuthe.txt
+Tamil_Magalir Mattum-Gubu Gubu Gubu.txt
+Tamil_Mangai Maanvizhi Ambugal-Un Aruginiley Enai.txt
+Tamil_Mannar Vagaiyara-Vanna Vanna.txt
+Tamil_Mohini-Youtube La Melam.txt
+Tamil_Mr Villain-Kanalae Nee En Mogame.txt
+Tamil_Nagesh Thiraiyarangam-Unga Appakitta Pesala.txt
+Tamil_Natpuna Ennanu Theriyuma-Inky Pinky Ponky.txt
+Tamil_Nimir-Vaazhum Valluvarae.txt
+Tamil_Oru Nalla Naal Paathu Solren-Lamba Lamba Lambadi.txt
+Tamil_Padai Veeran-Hkkumttada.txt
+Tamil_Padmaavat-Misiriyaa.txt
+Tamil_Pakka-Izhutha Izhupukku Vaadi Pulla.txt
+Tamil_Pathungi Paayanum Thala-Birthday Song.txt
+Tamil_Seyal-Neeya Uyre.txt
+Tamil_Sketch-Thendral Thindra Cheeni Chillaallee.txt
+Tamil_Tea Kadai Bench-Dangerunga Danger.txt
+Tamil_Thana Serndha Koottam- Peela Peela.txt
+Tamil_Theeran Adhigaram Ondru-O Sathiye O Sathiye.txt
+Tamil_Thiruttu Payale 2-Achukku Buchukku.txt
+Tamil_Tik Tik Tik-Vinveera Vinveera Idhu.txt
+Tamil_Abhiyum Anuvum-Engada Pone (F).txt
+Tamil_Achamillai Achamillai-Nee Yaaro Naan Yaaro.txt
+Tamil_Aruvi-Liberty Song (Cement Kaadu).txt
+Tamil_Ennai Nokki Paayum Thotta-Visiri.txt
+Tamil_Gulaebaghavali-Mazhai Pozhindhidum Neram.txt
+Tamil_Ippadai Vellum-Kulebaa Vaa.txt
+Tamil_Iravukku Aayiram Kangal-Nights Of Neverland.txt
+Tamil_Irumbu Thirai-Mudhal Murai.txt
+Tamil_Julie 2-Chennaiyila Then Vangi.txt
+Tamil_Kaali-Poorayo.txt
+Tamil_Kalakalappu 2-Kaiya Pudicha Thaarumaaru.txt
+Tamil_Karu-Voice Of Karu.txt
+Tamil_Kee-Kattappa.txt
+Tamil_Koottali-Kadalula Penja Mazha.txt
+Tamil_Magalir Mattum-Bullet Song.txt
+Tamil_Mangai Maanvizhi Ambugal-Mangai Maanvizhi Ambhugal.txt
+Tamil_Mannar Vagaiyara-Annana Pathi.txt
+Tamil_Mohini-Mohini's Rage.txt
+Tamil_Mr Villain-Adadadaaa Ammavin.txt
+Tamil_Nagesh Thiraiyarangam-Kadhal Nilaithane.txt
+Tamil_Natpuna Ennanu Theriyuma-Andhar Bulty.txt
+Tamil_Nimir-Epodhum Unmael Nyabagam.txt
+Tamil_Oru Nalla Naal Paathu Solren-Raakkozhi Kootalinga Rajangatha.txt
+Tamil_Padai Veeran-Ithuvarai Naan (M).txt
+Tamil_Padmaavat-Karaipurandoadudhey Kanaa.txt
+Tamil_Pakka-En Kannukulla Unna Vachan.txt
+Tamil_Pathungi Paayanum Thala-King of the Kings.txt
+Tamil_Seyal-Kozhi Mutte.txt
+Tamil_Sketch-Dhaadikaara.txt
+Tamil_Tea Kadai Bench-Yaradi Nee Yaradi Nee.txt
+Tamil_Thaanaa Serndha Koottam-Thaanaa Serndha Koottam.txt
+Tamil_Theeran Adhigaram Ondru-Laali Laali (Chinna Chinna Kan).txt
+Tamil_Thiruttu Payale 2-Neenda Naal.txt
+Tamil_Tik Tik Tik-Kurumba Reprise (Mothers Love).txt
+Tamil_Achamillai Achamillai-Nodi Pozhudhil.txt
+Tamil_Aruvi-Hope (Merku Karaiyil).txt
+Tamil_Ippadai Vellum-Ippadai Vellum Theme.txt
+Tamil_Iravukku Aayiram Kangal-Winds Of The Darkest Hour.txt
+Tamil_Irumbu Thirai-Angry Bird.txt
+Tamil_Julie 2-Idhu Saagasam Dhaan.txt
+Tamil_Kalakalappu 2-Krishna Mukundha.txt
+Tamil_Karu-Sound Of Revenge.txt
+Tamil_Kee-Kudutha Paru Kee.txt
+Tamil_Koottali-Porappo Porappo Muraikkama.txt
+Tamil_Magalir Mattum-Karu Karunnu.txt
+Tamil_Mangai Maanvizhi Ambugal-Uyire En Uyire Ninaivil.txt
+Tamil_Mannar Vagaiyara-Ada Ada.txt
+Tamil_Mr Villain-Villain Theme.txt
+Tamil_Natpuna Ennanu Theriyuma-Carrom Board.txt
+Tamil_Nimir-Yaenadi.txt
+Tamil_Padai Veeran-Theera Nadhi.txt
+Tamil_Padmaavat-Holi.txt
+Tamil_Pakka-Dopu Singari (Pakka Pakka).txt
+Tamil_Pathungi Paayanum Thala-Kolaikkira.txt
+Tamil_Sketch-Vaanam Thoorammalae.txt
+Tamil_Tea Kadai Bench-Sandala Ada Sandala.txt
+Tamil_Thaanaa Serndha Koottam-Engae Endru Povathu.txt
+Tamil_Theeran Adhigaram Ondru-Theeran Da.txt
+Tamil_Tik Tik Tik-Race Against Time.txt
+Tamil_Achamillai Achamillai-Oru Kanavu Indru.txt
+Tamil_Aruvi-Aruvi Theme (Moods Of Aruvi).txt
+Tamil_Magalir Mattum-Carratu Pottazhaga.txt
+Tamil_Mangai Maanvizhi Ambugal-Nijamthana Penne Aruginil.txt
+Tamil_Nimir-Geedhaara Kiliye.txt
+Tamil_Padai Veeran-Ithuvarai Naan (F).txt
+Tamil_Pathungi Paayanum Thala-Kovaipala.txt
+Tamil_Theeran Adhigaram Ondru-Tinga Tinga Tingana.txt
+Tamil_Tik Tik Tik-Far Beyond Earth.txt
+Tamil_Magalir Mattum-Time Passukkosaram.txt
+Tamil_Mangai Maanvizhi Ambugal-Yaar Ival Vizhigalil Vazhi.txt
+Tamil_Padai Veeran-Left Right.txt
+Tamil_Pathungi Paayanum Thala-Naanga Nadantha.txt
+Tamil_Magalir Mattum-Theme Music.txt
+Tamil_Padai Veeran-Inaiye Inaiye.txt
+Tamil_Padai Veeran-Local Sarakka Foreign Sarakka.txt
+Malayalam_Aadhi-Sooryane.txt
+Malayalam_Aadu 2-Changaathi Nannaayaal.txt
+Marathi_Abhiyum Anuvum-Saregamapadhanisa.txt
+Marathi_Achamillai Achamillai-Mazhai Kondu Vantha.txt
+Marathi_Aramm-Melam Kottudaa.txt
+Marathi_Aruvi-Party Song (Uchcham Thodum Anbin Kodi).txt
+Marathi_Bhaagamathie-Mandhaara.txt
+Marathi_Ennai Nokki Paayum Thotta-Maruvaarthai.txt
+Marathi_Ghajinikanth-Bar Song.txt
+Marathi_Gulaebaghavali-Guleba Sokama Sokama.txt
+Marathi_Ippadai Vellum-Ippadai Vellum Nichayamel.txt
+Marathi_Iravukku Aayiram Kangal-Uyir Uruvaatha.txt
+Marathi_Irumbu Thirai-Yaar Ivan.txt
+Marathi_Iruttu Araiyil Murattu Kuthu-Party Song.txt
+Marathi_Julie 2-Oh Vaa Vaa Kadhalil.txt
+Marathi_Junga-Koottippo Koodave.txt
+Marathi_Kaali-Arumbey.txt
+Marathi_Kalakalappu 2-Oru Kuchi Oru Kulfi.txt
+Marathi_Karu-Aalaliloo.txt
+Marathi_Kee-Raaja Paatu.txt
+Marathi_Keni-Ayya Sami.txt
+Marathi_Koottali-Chithiram Pesuthadi.txt
+Marathi_Madura Veeran-Enna Nadakkudhu Naattula.txt
+Marathi_Magalir Mattum-Adi Vaadi Thimiraa.txt
+Marathi_Mangai Maanvizhi Ambugal-Nee Tholai Thoorathil.txt
+Marathi_Mannar Vagaiyara-Mannar Mannar.txt
+Marathi_Mohini-Hey.txt
+Marathi_Mr Villain-Kannukul Kannukul.txt
+Marathi_Nagesh Thiraiyarangam-Kangal Rendum.txt
+Marathi_Natpuna Ennanu Theriyuma-Cow Song.txt
+Marathi_Nimir-Nenjil Mamazhai.txt
+Marathi_Oru Kuppai Kathai-Vilagaadhe Enadhuyirae.txt
+Marathi_Oru Nalla Naal Paathu Solren-Yae Elumba Enni Enni.txt
+Marathi_Padai Veeran-Kombathi Komban.txt
+Marathi_Padmaavat-Unadhallavaa.txt
+Marathi_Pakka-Ola Veedu Nallaala.txt
+Marathi_Pathungi Paayanum Thala-Nee Maamana Machana.txt
+Marathi_Pyaar Prema Kaadhal-High On Love.txt
+Marathi_R K Nagar-Papara Mittai.txt
+Marathi_Savarakathi-Annaanthu Paar.txt
+Marathi_Seyal-Vittu Thallu.txt
+Marathi_Sketch-Kannave Kannave.txt
+Marathi_Tea Kadai Bench-Tea Kadai Bench.txt
+Marathi_Thaanaa Serndha Koottam-Naana Thaana Veena Ponaa.txt
+Marathi_Theeran Adhigaram Ondru-Sevatha Pulla Manasukulla.txt
+Marathi_Thiruttu Payale 2-Nee Paarkum.txt
+Marathi_Tik Tik Tik-Tik Tik Tik (Title).txt.txt
+Marathi_Abhiyum Anuvum-Engada Pona (Duet).txt
+Marathi_Achamillai Achamillai-Achamillai Achamillai.txt
+Marathi_Aramm-Thoranam Aayiram.txt
+Marathi_Aruvi-Baby Track (Kukkotti Kunaatti).txt
+Marathi_Bhaagamathie-Bhaagamathie (Theme).txt
+Marathi_Ennai Nokki Paayum Thotta-Naan Pizhaippeno.txt
+Marathi_Gulaebaghavali-Seramal Ponal Vaazhamal Poven.txt
+Marathi_Ippadai Vellum-Godfather Kanmaniye.txt
+Marathi_Iravukku Aayiram Kangal-Yea Pa Yeppappa.txt
+Marathi_Irumbu Thirai- Azhagae.txt
+Marathi_Julie 2-Ila Maalai Pozhudhaaga.txt
+Marathi_Kaali-Amma Alugiren.txt
+Marathi_Kalakalappu 2-Karakudi Ilavarasi En Nenja.txt
+Marathi_Karu-Konjali.txt
+Marathi_Kee-Pattikichu Pathiya.txt
+Marathi_Keni-Kalayum Meghame.txt
+Marathi_Koottali-Jil Jil Silku Singari.txt
+Marathi_Madura Veeran-Kaappaathu Karuppa.txt
+Marathi_Magalir Mattum-Ghandhari Yaaro.txt
+Marathi_Mangai Maanvizhi Ambugal-Manjal Mayile.txt
+Marathi_Mannar Vagaiyara-Oru Thattane Pole.txt
+Marathi_Mohini-Bomb Figure Baby.txt
+Marathi_Mr Villain-Kandikka Kandikka.txt
+Marathi_Nagesh Thiraiyarangam-Vaadi Vaadi.txt
+Marathi_Natpuna Ennanu Theriyuma-Thookuda Collara.txt
+Marathi_Nimir-Poovukku.txt
+Marathi_Oru Kuppai Kathai-Vaa Machi Vaada Machi.txt
+Marathi_Oru Nalla Naal Paathu Solren-Hey Reengara En Izhuththayo.txt
+Marathi_Padai Veeran-Mattikkiten.txt
+Marathi_Padmaavat-Goomar.txt
+Marathi_Pakka-Enga Pona Nee Enga.txt
+Marathi_Pathungi Paayanum Thala-Angry Bird.txt
+Marathi_R K Nagar-Adiyea Vasamaakkavai.txt
+Marathi_Savarakathi-Thangakathi.txt
+Marathi_Seyal-Maatikiten.txt
+Marathi_Sketch-Atchi Putchi Kathukchi.txt
+Marathi_Tea Kadai Bench-Ennadi Ennadi.txt
+Marathi_Thaanaa Serndha Koottam-Sodakku.txt
+Marathi_Theeran Adhigaram Ondru-Oru Veettil Neeyum Naanum.txt
+Marathi_Thiruttu Payale 2-Thiruttuppayale 2 (Theme).txt
+Marathi_Tik Tik Tik-Kurumba (Fathers Love).txt
+Marathi_Abhiyum Anuvum-Engadi Pone (M).txt
+Marathi_Achamillai Achamillai-Pudhu Mayakkam.txt
+Marathi_Aramm-Pudhu Varalaare.txt
+Marathi_Aruvi-Teen Track (Asaindhadum Mayil).txt
+Marathi_Ennai Nokki Paayum Thotta-Maruvaarthai (Restrung Version).txt
+Marathi_Gulaebaghavali-Heartukulla Pachakuthiye.txt
+Marathi_Ippadai Vellum-Thodra Paakkalaam.txt
+Marathi_Iravukku Aayiram Kangal-Yean Penne Neeyum.txt
+Marathi_Irumbu Thirai-Athiradi.txt
+Marathi_Julie 2-Devaloga Sundari Naan.txt
+Marathi_Kaali-Yugam Noorai.txt
+Marathi_Kalakalappu 2-Pudichiruka illa Pudikalaya.txt
+Marathi_Karu-Karuve.txt
+Marathi_Kee-Kaadhoram.txt
+Marathi_Keni-Vedithidum Bhoomi.txt
+Marathi_Koottali-Katti Izhukkuthe.txt
+Marathi_Magalir Mattum-Gubu Gubu Gubu.txt
+Marathi_Mangai Maanvizhi Ambugal-Un Aruginiley Enai.txt
+Marathi_Mannar Vagaiyara-Vanna Vanna.txt
+Marathi_Mohini-Youtube La Melam.txt
+Marathi_Mr Villain-Kanalae Nee En Mogame.txt
+Marathi_Nagesh Thiraiyarangam-Unga Appakitta Pesala.txt
+Marathi_Natpuna Ennanu Theriyuma-Inky Pinky Ponky.txt
+Marathi_Nimir-Vaazhum Valluvarae.txt
+Marathi_Oru Nalla Naal Paathu Solren-Lamba Lamba Lambadi.txt
+Marathi_Padai Veeran-Hkkumttada.txt
+Marathi_Padmaavat-Misiriyaa.txt
+Marathi_Pakka-Izhutha Izhupukku Vaadi Pulla.txt
+Marathi_Pathungi Paayanum Thala-Birthday Song.txt
+Marathi_Seyal-Neeya Uyre.txt
+Marathi_Sketch-Thendral Thindra Cheeni Chillaallee.txt
+Marathi_Tea Kadai Bench-Dangerunga Danger.txt
+Marathi_Thana Serndha Koottam- Peela Peela.txt
+Marathi_Theeran Adhigaram Ondru-O Sathiye O Sathiye.txt
+Marathi_Thiruttu Payale 2-Achukku Buchukku.txt
+Marathi_Tik Tik Tik-Vinveera Vinveera Idhu.txt
+Marathi_Abhiyum Anuvum-Engada Pone (F).txt
+Marathi_Achamillai Achamillai-Nee Yaaro Naan Yaaro.txt
+Marathi_Aruvi-Liberty Song (Cement Kaadu).txt
+Marathi_Ennai Nokki Paayum Thotta-Visiri.txt
+Marathi_Gulaebaghavali-Mazhai Pozhindhidum Neram.txt
+Marathi_Ippadai Vellum-Kulebaa Vaa.txt
+Marathi_Iravukku Aayiram Kangal-Nights Of Neverland.txt
+Marathi_Irumbu Thirai-Mudhal Murai.txt
+Marathi_Julie 2-Chennaiyila Then Vangi.txt
+Marathi_Kaali-Poorayo.txt
+Marathi_Kalakalappu 2-Kaiya Pudicha Thaarumaaru.txt
+Marathi_Karu-Voice Of Karu.txt
+Marathi_Kee-Kattappa.txt
+Marathi_Koottali-Kadalula Penja Mazha.txt
+Marathi_Magalir Mattum-Bullet Song.txt
+Marathi_Mangai Maanvizhi Ambugal-Mangai Maanvizhi Ambhugal.txt
+Marathi_Mannar Vagaiyara-Annana Pathi.txt
+Marathi_Mohini-Mohini's Rage.txt
+Marathi_Mr Villain-Adadadaaa Ammavin.txt
+Marathi_Nagesh Thiraiyarangam-Kadhal Nilaithane.txt
+Marathi_Natpuna Ennanu Theriyuma-Andhar Bulty.txt
+Marathi_Nimir-Epodhum Unmael Nyabagam.txt
+Marathi_Oru Nalla Naal Paathu Solren-Raakkozhi Kootalinga Rajangatha.txt
+Marathi_Padai Veeran-Ithuvarai Naan (M).txt
+Marathi_Padmaavat-Karaipurandoadudhey Kanaa.txt
+Marathi_Pakka-En Kannukulla Unna Vachan.txt
+Marathi_Pathungi Paayanum Thala-King of the Kings.txt
+Marathi_Seyal-Kozhi Mutte.txt
+Marathi_Sketch-Dhaadikaara.txt
+Marathi_Tea Kadai Bench-Yaradi Nee Yaradi Nee.txt
+Marathi_Thaanaa Serndha Koottam-Thaanaa Serndha Koottam.txt
+Marathi_Theeran Adhigaram Ondru-Laali Laali (Chinna Chinna Kan).txt
+Marathi_Thiruttu Payale 2-Neenda Naal.txt
+Marathi_Tik Tik Tik-Kurumba Reprise (Mothers Love).txt
+Marathi_Achamillai Achamillai-Nodi Pozhudhil.txt
+Marathi_Aruvi-Hope (Merku Karaiyil).txt
+Marathi_Ippadai Vellum-Ippadai Vellum Theme.txt
+Marathi_Iravukku Aayiram Kangal-Winds Of The Darkest Hour.txt
+Marathi_Irumbu Thirai-Angry Bird.txt
+Marathi_Julie 2-Idhu Saagasam Dhaan.txt
+Marathi_Kalakalappu 2-Krishna Mukundha.txt
+Marathi_Karu-Sound Of Revenge.txt
+Marathi_Kee-Kudutha Paru Kee.txt
+Marathi_Koottali-Porappo Porappo Muraikkama.txt
+Marathi_Magalir Mattum-Karu Karunnu.txt
+Marathi_Mangai Maanvizhi Ambugal-Uyire En Uyire Ninaivil.txt
+Marathi_Mannar Vagaiyara-Ada Ada.txt
+Marathi_Mr Villain-Villain Theme.txt
+Marathi_Natpuna Ennanu Theriyuma-Carrom Board.txt
+Marathi_Nimir-Yaenadi.txt
+Marathi_Padai Veeran-Theera Nadhi.txt
+Marathi_Padmaavat-Holi.txt
+Marathi_Pakka-Dopu Singari (Pakka Pakka).txt
+Marathi_Pathungi Paayanum Thala-Kolaikkira.txt
+Marathi_Sketch-Vaanam Thoorammalae.txt
+Marathi_Tea Kadai Bench-Sandala Ada Sandala.txt
+Marathi_Thaanaa Serndha Koottam-Engae Endru Povathu.txt
+Marathi_Theeran Adhigaram Ondru-Theeran Da.txt
+Marathi_Tik Tik Tik-Race Against Time.txt
+Marathi_Achamillai Achamillai-Oru Kanavu Indru.txt
+Marathi_Aruvi-Aruvi Theme (Moods Of Aruvi).txt
+Marathi_Magalir Mattum-Carratu Pottazhaga.txt
+Marathi_Mangai Maanvizhi Ambugal-Nijamthana Penne Aruginil.txt
+Marathi_Nimir-Geedhaara Kiliye.txt
+Marathi_Padai Veeran-Ithuvarai Naan (F).txt
+Marathi_Pathungi Paayanum Thala-Kovaipala.txt
+Marathi_Theeran Adhigaram Ondru-Tinga Tinga Tingana.txt
+Marathi_Tik Tik Tik-Far Beyond Earth.txt
+Marathi_Magalir Mattum-Time Passukkosaram.txt
+Marathi_Mangai Maanvizhi Ambugal-Yaar Ival Vizhigalil Vazhi.txt
+Marathi_Padai Veeran-Left Right.txt
+Marathi_Pathungi Paayanum Thala-Naanga Nadantha.txt
+Marathi_Magalir Mattum-Theme Music.txt
+Marathi_Padai Veeran-Inaiye Inaiye.txt
+Marathi_Padai Veeran-Local Sarakka Foreign Sarakka.txt

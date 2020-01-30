@@ -1,0 +1,82 @@
+﻿# To Create Directory 
+New-Item -Path 'D:\temp\Directory Name' -ItemType Directory
+
+# To Create File 
+New-Item -Path 'D:\temp\File Name' -ItemType Directory
+
+# To Copy Directory
+Copy-Item 'D:\temp\Directory Name' 'D:\temp\Directory Name'
+
+# To Copy Directory recursively
+Copy-Item 'D:\temp\Directory Name' -Destination 'D:\temp\Directory Name'
+
+# To Copy File 
+Copy-Item 'D:\temp\Test Folder\Test File.txt' 'D:\temp\Test Folder1\Test File1.txt'
+
+# To Copy Files Recurse
+Copy-Item -Filter *.txt -Path 'D:\temp\Test Folder' -Recurse -Destination 'D:\temp\Test Folder1'
+
+# To Delete Directory
+Remove-Item 'D:\temp\Test Folder1'
+
+# To Delete Directory Recurse
+Remove-Item 'D:\temp\Test Folder' -Recurse
+
+# To Delete File
+Remove-Item 'D:\temp\Test Folder\test.txt'
+
+
+# To Delete Files Recurse
+Remove-Item 'D:\temp\Test Folder' -Recurse
+
+# To Move Directory
+Move-Item D:\temp\Test D:\temp\Test1
+
+# To Move file
+Move-Item D:\temp\Test\Test.txt D:\temp\Test1
+
+# To Rename to directory
+Rename-Item D:\temp\Test D:\temp\Test1
+
+# To Rename to file 
+Rename-Item D:\temp\Test\test.txt test1.txt
+
+# To Retrive Data from file 
+Get-Content D:\temp\Test\test.txt
+
+# To Check leanth of file 
+(Get-Content D:\temp\test\test.txt).length
+
+# To Check Directory existence
+Test-Path D:\temp\test
+
+# To Check file existence
+Test-Path D:\temp\test\test.txt
+
+# To Get TheSystem Date
+Get-Date
+
+# Set-Date to add one more day to current date.
+set-date -Date (Get-Date).AddDays(1)
+set-date -Date (Get-Date).AddDays(-1)
+Get-Date
+
+# we're using -DisplayHint to print only Date
+Get-Date -DisplayHint Date
+
+# we're using -DisplayHint to print only Time.
+Get-Date -DisplayHint Time 
+
+# we're using Get-Date to get current date
+get-date -displayHint time   
+
+# we're using Set-Date to adjust to add 60 minutes.
+$timeToAdd = New-TimeSpan -Minutes +60
+set-date -adjust $timeToAdd
+
+
+# # we're using Set-Date to adjust to before 60 minutes.
+$timeToAdd = New-TimeSpan -Minutes -60
+set-date -adjust $timeToAdd
+
+
